@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, Discord.JS, or Node.Js**
 
-- 📫 How to reach me **cryptixrune@gmail.com**
+- 📫 How to reach me **cryptixrune@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
